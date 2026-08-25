@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Anand Raj 👋
 
-<!--
-**AnandRajP1/AnandRajP1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## VLSI  Design Student
 
-Here are some ideas to get you started:
+Electrical and Electronics Engineering student interested in VLSI, RTL Design and Verilog HDL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- Verilog HDL
+- Digital Electronics
+- C++ Programming
+- C Programming
+- Embedded Systems
+
+### HDLBits Practice
+
+I am practicing Verilog HDL and digital design problems on HDLBits.
+
+🔗 [My HDLBits Profile](https://hdlbits.01xz.net/wiki/Special:VlgStats/156125571EF0C8ED)
