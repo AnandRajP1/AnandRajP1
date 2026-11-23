@@ -1,6 +1,6 @@
 # Hi, I'm Anand Raj 👋
 
-## VLSI Student
+## VLSI Engineer
 
 Electrical and Electronics Engineering student interested in VLSI, RTL Design and Verilog HDL.
 
